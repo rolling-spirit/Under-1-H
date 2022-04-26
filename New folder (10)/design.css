@@ -1,0 +1,63 @@
+body
+{
+	background:rgb(252, 112, 61);
+	background:url(titled.png);
+
+}
+
+h3 , label{
+	color:white;
+}
+
+	.P1 , .P2
+	{
+		background:black;
+		padding: 100px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#P1, #P2
+{
+	display: inline-block;
+	margin-left: 12px;
+
+}
+#Word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(139, 222, 139);
+border-radius: 10px;
+border-top: 10px solid rgb(106, 106, 202);
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+b{
+	margin-right: 200px;
+	font-weight: 900;
+}
+
+h3{
+	color:orange;
+	font-weight: bold;
+}
+
+#Play1{
+	color:rgb(61, 239, 61);
+	font-weight: bold;
+}
+
+#Play2{
+	color:rgb(61, 239, 61);
+	font-weight: bold;
+}
